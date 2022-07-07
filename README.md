@@ -19,7 +19,7 @@
 
   <a href="https://imgur.com/u1CahIE"><img align="right" alt="Euber-pic" height="150" style="border-radius:50px;" src="https://i.imgur.com/u1CahIEb.gif" title="source: imgur.com" /></a>
   
-  ##
+  #
   
   <div> 
    <a href="https://instagram.com/euberkhoala/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
