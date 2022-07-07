@@ -3,12 +3,12 @@
 - 🔭 I’m currently working on OncologiaD'or, as Technical Suport
 - 🌱 I’m currently learning React JS, API Rest with Express and Axios and PL/SQL
 - 💬 Ask me about https://www.linkedin.com/in/euber-olavo-2bba8a97/
-- 😄 Pronouns: ele/dele
+- 😄 Pronouns: He
 
 <div align="center">
   <a href="https://github.com/euberolavo">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=euberolavo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=euberolavo&layout=compact&langs_count=7&theme=dracula"/>
+  <img width="48%" height="180em" src="https://github-readme-stats.vercel.app/api?username=euberolavo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img width="48%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=euberolavo&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Euber-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
