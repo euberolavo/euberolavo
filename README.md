@@ -17,5 +17,7 @@
   <img align="center" alt="Euber-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Euber-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 
-  <a href="https://imgur.com/u1CahIE"><img src="https://i.imgur.com/u1CahIEb.gif" title="source: imgur.com" /></a>
+  <a href="https://imgur.com/u1CahIE"><img align="right" alt="Euber-pic" height="150" style="border-radius:50px;" src="https://i.imgur.com/u1CahIEb.gif" title="source: imgur.com" /></a>
+  
+
 </div>
