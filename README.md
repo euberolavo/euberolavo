@@ -1,6 +1,6 @@
 ### Hello!! My name is Euber Olavo 👋
 
-- 🔭 I’m currently working on OncologiaD'or, as Technical Suport
+- 🔭 I’m currently working at OncologiaD'or, as Technical Suport
 - 🌱 I’m currently learning React JS, API Rest with Express and Axios and PL/SQL
 - 💬 Ask me about https://www.linkedin.com/in/euber-olavo-2bba8a97/
 - 😄 Pronouns: He
