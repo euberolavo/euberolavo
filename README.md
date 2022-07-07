@@ -17,18 +17,16 @@
   <img align="center" alt="Euber-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Euber-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 
-  <a href="https://imgur.com/u1CahIE"><img align="right" alt="Euber-pic" height="150" style="border-radius:50px;" src="https://i.imgur.com/u1CahIEb.gif" title="source: imgur.com" /></a>
-  
   ##
+  <a /></a>
+    <img align="right" src="https://media.giphy.com/media/sDL1V5YrOB6MlCTENZ/giphy.gif" height="120" />
+  
   
   <div> 
    <a href="https://instagram.com/euberkhoala/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://discord.gg/" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:euber.olavo.bezerra@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/euber-olavo-2bba8a97/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
-  <img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="40" height="40" />
-  <iframe src="https://giphy.com/embed/sDL1V5YrOB6MlCTENZ" width="150" height="150" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/sDL1V5YrOB6MlCTENZ">via GIPHY</a></p>
  
 </div>
 
